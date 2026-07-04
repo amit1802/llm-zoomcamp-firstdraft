@@ -20,3 +20,6 @@ Thumbs.db
 
 # Jupyter
 .ipynb_checkpoints/
+
+# VS Code
+.vscode/
